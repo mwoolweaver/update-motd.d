@@ -1,7 +1,0 @@
-#!/bin/sh
-
-stamp='/usr/bin/pkcon get-updates'
-
-[ ! -r "$stamp" ] || cat "$stamp"
-
-echo $stamp
