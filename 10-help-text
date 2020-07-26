@@ -21,6 +21,6 @@
 #    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 printf "\n"
-printf " * Documentation:  http://www.raspbian.org/RaspbianDocumentation/\n"
-printf " * Management:     http://www.raspbian.org//\n"
+printf " * Documentation:  http://www.raspbian.org/RaspbianDocumentation\n"
+printf " * Management:     http://www.raspbian.org\n"
 printf " * Support:        http://www.raspbian.org/RaspbianFAQ\n"
