@@ -4,5 +4,8 @@ you will need [landscape-common](https://ubuntu.pkgs.org/20.04/ubuntu-main-armhf
 
 ```
 cd ~/
-sudo apt install $(wget http://ports.ubuntu.com/pool/main/l/landscape-client/landscape-common_19.12-0ubuntu4_armhf.deb)
+
+wget http://ports.ubuntu.com/pool/main/l/landscape-client/landscape-common_19.12-0ubuntu4_armhf.deb
+
+sudo apt install ./landscape-common_19.12-0ubuntu4_armhf.deb
 ```
