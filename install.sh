@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cd ~/
 
 wget http://ports.ubuntu.com/pool/main/l/landscape-client/landscape-common_19.12-0ubuntu4_armhf.deb
