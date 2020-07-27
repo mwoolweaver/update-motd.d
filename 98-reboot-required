@@ -1,5 +1,0 @@
-#!/bin/sh
-
-if [ -f /var/run/reboot-required ]; then
-  echo '\n\n** Reboot Required**\n\n'
-fi
